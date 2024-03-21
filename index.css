@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    pad: -moz-linear-gradient();
+}
+
+.btn-primary{
+    background-color: #007bff;
+    border-color: #007bff;
+}
